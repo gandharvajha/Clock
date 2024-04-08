@@ -21,14 +21,16 @@ This clock project is a simple web application built with HTML, CSS, and JavaScr
 ## Screenshots
 
 ### Desktop View
-![image](https://github.com/gandharvajha/Clock/assets/107179374/a43b60a7-a4ed-4809-8acb-185c02f7c846)
+![image](https://github.com/gandharvajha/Clock/assets/107179374/f5ed9285-4906-4bfd-ac5d-87c58e1c4508)
 
 
 ### Tablet View
-<img width="572" alt="image" src="https://github.com/gandharvajha/random-color/assets/107179374/5f12adee-3f6d-4d81-a6b9-de1f5a3d4348">
+![image](https://github.com/gandharvajha/Clock/assets/107179374/e2480ec0-2702-419e-81bf-c81294ea25c3)
+
 
 ### Mobile View
-<img width="281" alt="image" src="https://github.com/gandharvajha/random-color/assets/107179374/69c64905-260d-45bb-b8db-c47444771e26">
+![image](https://github.com/gandharvajha/Clock/assets/107179374/7425958b-b68c-4216-add2-271db2782c2a)
+
 
 
 
